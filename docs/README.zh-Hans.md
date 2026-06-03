@@ -23,11 +23,11 @@ XfPanel目前正在进行测试和安装。
 > **要求:** Linux VPS (Debian / Ubuntu / CentOS / Rocky)、1 GB 内存、互联网接入。  
 > 需要 ~3 分钟。
 ```
-bash <(curl -fsSL https://dl.xfpanel.com/xfpanel/v1/install.sh)
+bash <(curl -fsSL https://dl.xfpanel.com/xfpanel/package/v1/install.sh)
 ```
 or
 ```
-bash <(wget -qO- https://dl.xfpanel.com/xfpanel/v1/install.sh)
+bash <(wget -qO- https://dl.xfpanel.com/xfpanel/package/v1/install.sh)
 ```
 ## Star 历史
 
