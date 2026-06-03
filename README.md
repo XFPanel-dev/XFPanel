@@ -23,11 +23,11 @@ XfPanel is currently being tested and installed.
 > **Requirements:** Linux VPS (Debian / Ubuntu / CentOS / Rocky), 1 GB RAM, internet access.  
 > Takes ~3 seconds.
 ```
-bash <(curl -fsSL https://dl.xfpanel.com/xfpanel/v1/install.sh)
+bash <(curl -fsSL https://dl.xfpanel.com/xfpanel/package/v1/install.sh)
 ```
 or
 ```
-bash <(wget -qO- https://dl.xfpanel.com/xfpanel/v1/install.sh)
+bash <(wget -qO- https://dl.xfpanel.com/xfpanel/package/v1/install.sh)
 ```
 ## Star History
 
